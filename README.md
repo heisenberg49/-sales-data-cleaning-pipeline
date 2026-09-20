@@ -110,7 +110,3 @@ Nothing in `data/` or `reports/` is committed. Client data does not belong in a 
 
 Python, pandas, numpy, openpyxl, rapidfuzz, and the standard library `logging` module.
 
-## Licence
-
-MIT
-
