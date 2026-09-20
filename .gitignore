@@ -1,0 +1,19 @@
+# never commit client data
+data/raw/*
+!data/raw/.gitkeep
+data/clean/*
+!data/clean/.gitkeep
+reports/*
+!reports/.gitkeep
+logs/
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# os
+.DS_Store
+Thumbs.db
